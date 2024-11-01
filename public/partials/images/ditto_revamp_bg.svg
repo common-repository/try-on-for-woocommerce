@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1366px" height="768px" viewBox="0 0 1366 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>010_DITTO_Launch_Screen</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="7.56162167%" y1="117.637947%" x2="82.8050222%" y2="44.7054402%" id="linearGradient-1">
+            <stop stop-color="#0088CB" offset="0%"></stop>
+            <stop stop-color="#984A9C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-32.7786859%" y1="45.9986777%" x2="96.4127416%" y2="98.1398134%" id="linearGradient-2">
+            <stop stop-color="#ED0973" offset="0%"></stop>
+            <stop stop-color="#FAA61A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="39.8362857%" y1="106.713286%" x2="79.7574062%" y2="17.050644%" id="linearGradient-3">
+            <stop stop-color="#00BAC6" offset="0%"></stop>
+            <stop stop-color="#FFC20E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="010_DITTO_Launch_Screen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F8F8F8" x="0" y="0" width="1366" height="768"></rect>
+        <circle id="Oval" fill="url(#linearGradient-1)" cx="1080" cy="165" r="996"></circle>
+        <circle id="Oval" fill="url(#linearGradient-2)" cx="51" cy="-141" r="996"></circle>
+        <circle id="Oval" fill="url(#linearGradient-3)" cx="737" cy="-503" r="996"></circle>
+    </g>
+</svg>

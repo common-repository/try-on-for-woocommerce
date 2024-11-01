@@ -1,0 +1,78 @@
+.specfit_cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.specfit_card {
+    margin: auto;
+    box-sizing: border-box;
+    position: relative;
+    margin-top: 20px;
+    padding: .7em 2em 1em;
+    min-width: 255px;
+    max-width: 520px;
+    max-height: 310px;
+    border: 1px solid #ccd0d4;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+    background: #fff;
+    box-sizing: border-box;
+}
+
+
+.specfit_column {
+    float: left;
+    width: 30%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+    display: table;
+  }
+  
+  @media screen and (max-width: 650px) {
+    .specfit_column {
+      width: 100%;
+      display: block;
+    }
+  }
+
+  .title {
+    color: grey;
+  }
+  
+  .specfit_button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .specfit_button:hover {
+    background-color: #555;
+  }
+
+  .specfit_color_img_upload_icon{
+      cursor: pointer;
+      width: 220px;
+      height: 85px;
+  }
+
+  .specfit_color_delete_btn{
+    color: white !important;
+    background-color: #d22e7a !important;
+  }
+  .specfit_color_save_btn{
+    color: white !important;
+    background-color: #7cbe4d !important;
+  }
+  .specfit_add_errors{
+    font-size: 10px;
+    color: red;
+  }
+  .specfit_add_info{
+    font-size: 14px;
+    color: green;
+  }

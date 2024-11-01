@@ -1,0 +1,63 @@
+# Copyright (C) 2023 DugudLabs
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: SpecFit 6.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/try-on-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-10T16:19:12+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: eyewear_virtual_try_on_wordpress\n"
+
+#. Plugin Name of the plugin
+msgid "SpecFit"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.dugudlabs.com/specfit"
+msgstr ""
+
+#. Description of the plugin
+msgid "SpecFit adds a virtual try on pop up to your Eye Wear store without any efforts.Enjoy! Get your license key at https://wwww.dugudlabs.com/specfit or email us at support@dugudlabs.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "DugudLabs"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.dugudlabs.com"
+msgstr ""
+
+#: public/class-eyewear_virtual_try_on_wordpress-public.php:227
+msgid "Try On"
+msgstr ""
+
+#: public/partials/eyewear_virtual_try_on_wordpress-public-display-new.php:39
+msgid "Hang On! We are trying to open webcam."
+msgstr ""
+
+#: public/partials/eyewear_virtual_try_on_wordpress-public-display-new.php:39
+msgid "Please allow webcam access when asked."
+msgstr ""
+
+#: public/partials/eyewear_virtual_try_on_wordpress-public-display-new.php:39
+msgid "Keep your head straight and look into webcam."
+msgstr ""
+
+#: public/partials/eyewear_virtual_try_on_wordpress-public-display-new.php:39
+msgid "Try On will start once we are able to recongnize your face."
+msgstr ""
+
+#: public/partials/eyewear_virtual_try_on_wordpress-public-display-new.php:50
+msgid "Live"
+msgstr ""
+
+#: public/partials/eyewear_virtual_try_on_wordpress-public-display-new.php:51
+msgid "Upload"
+msgstr ""
